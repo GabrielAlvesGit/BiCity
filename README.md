@@ -84,10 +84,10 @@ Thanks goes to these wonderful people:
     <img align="center" alt="spring" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" >
     <img align="center" alt="Swagger" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg">
     <img align="center" alt="aws" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" >
-    <img align="center" alt="Jira" height="80" width="150" src="https://github.com/user-attachments/assets/4122a8e7-2ddc-492f-883c-7a10d3f25d90">
+    <img align="center" alt="ec2/rds" height="80" width="150" src="https://github.com/user-attachments/assets/4122a8e7-2ddc-492f-883c-7a10d3f25d90">
     <img align="center" alt="mysql" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" alt="Figma" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-    <img align="center" alt="Jira" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original-wordmark.svg">
+    <img align="center" alt="trello" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original-wordmark.svg">
 </div>
 
 ## Descrição do Projeto
@@ -140,7 +140,7 @@ O presente projeto tem como objetivo criar um aplicativo que permita aos usuári
     ```bash
     npm install react-native-maps
     expo install expo-location
-    npm install geojson - Caso necessario
+    npm install geojson - Caso necessário
     ```
     
  5. Start the app
