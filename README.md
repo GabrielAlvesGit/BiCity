@@ -221,14 +221,14 @@ To learn more about developing your project with Expo, look at the following res
 
 ```diff
 - 🚨 Aviso Importante 🚨
-
+```
 **Este repositório não contém o código-fonte do aplicativo.** Ele serve apenas como um espelho do projeto,
 reunindo informações sobre o desenvolvimento e a direção do app.
 
 Por questões de desenvolvimento e outros motivos, o código não está disponível publicamente.
 No entanto, o projeto já está **80% concluído**, incluindo **frontend**,
 **backend**, **banco de dados** e **serviços AWS**.
-```
+
 
 ## 💻 Layout BiCity
 
