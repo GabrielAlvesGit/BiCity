@@ -226,9 +226,9 @@ To learn more about developing your project with Expo, look at the following res
 reunindo informações sobre o desenvolvimento e a direção do app.
 
 Por questões de desenvolvimento e outros motivos, o código não está disponível publicamente.
-No entanto, o projeto já está **80% concluído**, incluindo **frontend**, **backend**, **banco de dados** e **serviços AWS**.
+No entanto, o projeto já está **80% concluído**, incluindo **frontend**,
+**backend**, **banco de dados** e **serviços AWS**.
 ```
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 ## 💻 Layout BiCity
 
