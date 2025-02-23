@@ -218,12 +218,17 @@ To learn more about developing your project with Expo, look at the following res
 
 <a href="https://trello.com/b/k4kDjjbt/novo-projeto">Trello <img src="https://github.com/user-attachments/assets/52e5be79-cbf3-466e-9838-d56ca199090e" alt="Imagem Seta A Direita Blue" style="width: 12px; height: 12px; "></a>
 
-### Aviso Importante
 
-**Este repositório não contém o código-fonte do aplicativo.** Ele serve apenas como um espelho do projeto, reunindo informações sobre o desenvolvimento e a direção do app.
+```diff
+- 🚨 Aviso Importante 🚨
 
-Por questões de desenvolvimento e outros motivos, o código não está disponível publicamente.<br> 
+**Este repositório não contém o código-fonte do aplicativo.** Ele serve apenas como um espelho do projeto,
+reunindo informações sobre o desenvolvimento e a direção do app.
+
+Por questões de desenvolvimento e outros motivos, o código não está disponível publicamente.
 No entanto, o projeto já está **80% concluído**, incluindo **frontend**, **backend**, **banco de dados** e **serviços AWS**.
+```
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 ## 💻 Layout BiCity
 
