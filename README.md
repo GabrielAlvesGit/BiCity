@@ -21,6 +21,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ```
 
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css">
 <h1 align="center">
   <img src="https://github.com/GabrielAlvesGit/ComenteSobre-EngenhariaSoftwareIII-IFSP/blob/main/comente_sobres/static/img/logo-instituto.png?raw=true" alt="Imagem do IFSP" width="250" height="230" style="border-radius: 50;">
@@ -64,7 +65,7 @@ Thanks goes to these wonderful people:
   <tr>
     <tr>
    <td align="center"><a href="https://github.com/CaioARL"><img alt="Imagem Perfil Caio" src="https://avatars.githubusercontent.com/u/89604540?v=4" width="100px" alt="Foto de Perfil"/><br/><sub><b>Caio Arruda</b></sub></a><br /><a href="https://github.com/CaioARL" title="GitHub"><img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"></a><a href="#" title="Linkedin"><img align="center" alt="Imagem Linkedin" height="30" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a></td>
-    <td align="center"><a href="https://avatars.githubusercontent.com/u/102634725?v=4"><img alt="Imagem Perfil Gabriel Josué" src="https://github.com/user-attachments/assets/662ee875-0438-4fe7-bb22-4797979baec7" width="100px" alt="Foto de Perfil"/><br/><sub><b>Gabriel Josué</b></sub></a><br /><a href="https://github.com/GabrielAlvesGit" title="GitHub"><img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"></a><a href="https://www.linkedin.com/in/gabrielalv3s/" title="Linkedin"><img align="center" alt="Imagem Linkedin" height="30" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a></td>
+    <td align="center"><a href="https://github.com/user-attachments/assets/55e713ca-8c4e-4d86-a0dd-ebc044e258d5"><img alt="Imagem Perfil Gabriel Josué" src="https://github.com/user-attachments/assets/662ee875-0438-4fe7-bb22-4797979baec7" width="100px" alt="Foto de Perfil"/><br/><sub><b>Gabriel Josué</b></sub></a><br /><a href="https://github.com/GabrielAlvesGit" title="GitHub"><img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"></a><a href="https://www.linkedin.com/in/gabrielalv3s/" title="Linkedin"><img align="center" alt="Imagem Linkedin" height="30" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a></td>
         <td align="center"><a href="https://github.com/gabuh"><img alt="Imagem Perfil Gabriel Nogueira" src="https://avatars.githubusercontent.com/u/107087299?v=4" width="100px" alt="Foto de Perfil"/><br/><sub><b>Gabriel Nogueira</b></sub></a><br /><a href="https://github.com/gabuh" title="GitHub"><img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"></a><a href="https://www.linkedin.com/in/gabunogueira" title="Linkedin"><img align="center" alt="Imagem Linkedin" height="30" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a></td>
     <td align="center"><a href="https://github.com/luizatempobono"><img alt="Imagem Perfil Luiza Tempobonos" src="https://avatars.githubusercontent.com/u/49411322?v=4" width="100px" alt="Foto de Perfil"/><br/><sub><b>Luiza Tempobono</b></sub></a><br /><a href="https://github.com/luizatempobono" title="GitHub"><img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"></a><a href="https://br.linkedin.com/in/luizatempobono" title="Linkedin"><img align="center" alt="Imagem Linkedin" height="30" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a></td>
     <td align="center"><a href="https://github.com/c0zyhug"><img alt="Imagem Perfil Kayan" src="https://github.com/user-attachments/assets/ff34c587-b70c-48f9-bc15-090fa3c156e8" width="100px" alt="Foto de Perfil"/><br/><sub><b>Kayan Garbi</b></sub></a><br /><a href="https://github.com/c0zyhug" title="GitHub"><img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"></a><a href="https://www.linkedin.com/in/kayan-garbi/" title="Linkedin"><img align="center" alt="Imagem Linkedin" height="30" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a></td> 
@@ -213,12 +214,11 @@ To learn more about developing your project with Expo, look at the following res
 
 ## Documentações
 
-<a href="https://www.figma.com/design/KCeLjQD4pfOAC88nYXWICV/Projeto-PI1A5---Grupo-5?node-id=0-1&t=SuQxY3qDCQvJZxQ2-1">Documentação Figma <img src="https://github.com/user-attachments/assets/52e5be79-cbf3-466e-9838-d56ca199090e" alt="Imagem Seta A Direita Blue" style="width: 12px; height: 12px; "></a>
+<a href="https://www.figma.com/design/KCeLjQD4pfOAC88nYXWICV/Projeto-PI1A5---Grupo-5?node-id=0-1&t=SuQxY3qDCQvJZxQ2-1">Documentação Figma <img src="https://github.com/user-attachments/assets/eb66b452-df9f-4064-b5d6-c7b3d3849b01" alt="Imagem Seta A Direita Blue" style="width: 12px; height: 12px; "></a>
 
-<a href="#">Documentação Doc. <img src="https://github.com/user-attachments/assets/52e5be79-cbf3-466e-9838-d56ca199090e" alt="Imagem Seta A Direita Blue" style="width: 12px; height: 12px; "></a>
+<a href="#">Documentação Doc. <img src="https://github.com/user-attachments/assets/eb66b452-df9f-4064-b5d6-c7b3d3849b01" alt="Imagem Seta A Direita Blue" style="width: 12px; height: 12px; "></a>
 
-<a href="https://trello.com/b/k4kDjjbt/novo-projeto">Trello <img src="https://github.com/user-attachments/assets/52e5be79-cbf3-466e-9838-d56ca199090e" alt="Imagem Seta A Direita Blue" style="width: 12px; height: 12px; "></a>
-
+<a href="https://trello.com/b/k4kDjjbt/novo-projeto">Trello <img src="https://github.com/user-attachments/assets/eb66b452-df9f-4064-b5d6-c7b3d3849b01" alt="Imagem Seta A Direita Blue" style="width: 12px; height: 12px; "></a>
 
 ```diff
 - 🚨 Aviso Importante 🚨
