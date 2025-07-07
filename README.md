@@ -46,13 +46,13 @@ Orientadores: Prof. Palladino e Prof. Quirino (PI2A6 - 2025).
             <strong>Prof. Bernardo</strong>
           </td>
           <td>
-            <img src="https://github.com/user-attachments/assets/9c006882-89a9-43ad-84d6-12e535fd26d2" alt="Imagem do Prof. Palladino" width="130px" height="130px"><br>
+            <img src="https://github.com/user-attachments/assets/18d36110-e1f2-43b7-abdd-4f6ea3ae592a" alt="Imagem do Prof. Palladino" width="130px" height="130px"><br>
             <strong>Prof. Palladino</strong>
           </td>
         </tr>
         <tr>
           <td colspan="2">
-            <img src="https://github.com/user-attachments/assets/bb63c6e7-5eaf-4788-b5c9-36ecdb9f3711" alt="Imagem do Prof. Quirino" width="130px" height="130px"><br>
+            <img src="https://github.com/user-attachments/assets/b629fca5-4d9d-44a9-8f10-577630f39812" alt="Imagem do Prof. Quirino" width="130px" height="130px"><br>
             <strong>Prof. Quirino</strong>
           </td>
         </tr>
@@ -248,7 +248,6 @@ No entanto, o projeto já está **99% concluído**, incluindo **frontend**,
 ## 💻 Layout BiCity
 
 https://github.com/user-attachments/assets/8dbae452-adc7-4b85-827c-1880f0d70aa1
-
 
 
 
