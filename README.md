@@ -42,7 +42,7 @@ Orientadores: Prof. Palladino e Prof. Quirino (PI2A6 - 2025).
       <table>
         <tr>
           <td>
-            <img src="https://github.com/user-attachments/assets/4d674248-ac71-4d68-8d79-d53fae5a1dab" alt="Imagem do Prof. Bernardo" width="130px" height="130px"><br>
+            <img src="https://github.com/user-attachments/assets/82e89367-6d65-4db7-a7dd-6eaa9b6b7c6b" alt="Imagem do Prof. Bernardo" width="130px" height="130px"><br>
             <strong>Prof. Bernardo</strong>
           </td>
           <td>
@@ -52,7 +52,7 @@ Orientadores: Prof. Palladino e Prof. Quirino (PI2A6 - 2025).
         </tr>
         <tr>
           <td colspan="2">
-            <img src="https://github.com/user-attachments/assets/c84d26b2-311b-4c15-9e4b-0b8ec3443a46" alt="Imagem do Prof. Quirino" width="130px" height="130px"><br>
+            <img src="https://github.com/user-attachments/assets/bb63c6e7-5eaf-4788-b5c9-36ecdb9f3711" alt="Imagem do Prof. Quirino" width="130px" height="130px"><br>
             <strong>Prof. Quirino</strong>
           </td>
         </tr>
