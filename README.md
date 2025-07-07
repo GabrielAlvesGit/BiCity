@@ -33,7 +33,7 @@
 <table>
   <tr>
     <td style="width: 50%; vertical-align: top; padding: 10px;">
-   Trabalho apresentado nas disciplinas PI1A5 - Projeto Integrado I (2024) e PI2A6 - Projeto Integrado I (2025), do curso Superior de Tecnologia em
+   Trabalho apresentado nas disciplinas PI1A5 - Projeto Integrado I (2024) e PI2A6 - Projeto Integrado II (2025), do curso Superior de Tecnologia em
 Análise e Desenvolvimento de Sistemas do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo.<br><br>
 Orientadores: Prof. Bernardo e Prof. Palladino (PI1A5 - 2024).<br><br>
 Orientadores: Prof. Palladino e Prof. Quirino (PI2A6 - 2025).
