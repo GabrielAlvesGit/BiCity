@@ -129,7 +129,7 @@ Thanks goes to these wonderful people:
     <img align="center" alt="spring" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" >
     <img align="center" alt="Swagger" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg">
     <img align="center" alt="aws" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" >
-    <img align="center" alt="Jira" height="80" width="150" src="https://github.com/user-attachments/assets/4122a8e7-2ddc-492f-883c-7a10d3f25d90">
+    <img align="center" alt="Jira" height="80" width="150" src="https://github.com/user-attachments/assets/443d4ec7-1ae5-4424-a574-958229384c56">
     <img align="center" alt="mysql" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" alt="Figma" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
     <img align="center" alt="Jira" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original-wordmark.svg">
@@ -228,11 +228,11 @@ O presente projeto tem como objetivo criar um aplicativo que permita aos usuári
 
 ## Documentação
 
-<a href="https://www.figma.com/design/KCeLjQD4pfOAC88nYXWICV/Projeto-PI1A5---Grupo-5?node-id=0-1&t=SuQxY3qDCQvJZxQ2-1">Documentação Figma <img src="https://github.com/user-attachments/assets/52e5be79-cbf3-466e-9838-d56ca199090e" alt="Imagem Seta A Direita Blue" style="width: 12px; height: 12px; "></a>
+<a href="https://www.figma.com/design/KCeLjQD4pfOAC88nYXWICV/Projeto-PI1A5---Grupo-5?node-id=0-1&t=SuQxY3qDCQvJZxQ2-1">Documentação Figma <img src="https://github.com/user-attachments/assets/8e41748c-cf5d-4ad1-a805-4e274273b710" alt="Imagem Seta A Direita Blue" style="width: 12px; height: 12px; "></a>
 
-<a href="https://github.com/user-attachments/files/20956726/PI2A6.-.BiCity.Documentacao.pdf">Documentação Doc. <img src="https://github.com/user-attachments/assets/52e5be79-cbf3-466e-9838-d56ca199090e" alt="Imagem Seta A Direita Blue" style="width: 12px; height: 12px; "></a>
+<a href="https://github.com/user-attachments/files/20956726/PI2A6.-.BiCity.Documentacao.pdf">Documentação Doc. <img src="https://github.com/user-attachments/assets/8e41748c-cf5d-4ad1-a805-4e274273b710" alt="Imagem Seta A Direita Blue" style="width: 12px; height: 12px; "></a>
 
-<a href="https://trello.com/b/k4kDjjbt/novo-projeto">Trello <img src="https://github.com/user-attachments/assets/52e5be79-cbf3-466e-9838-d56ca199090e" alt="Imagem Seta A Direita Blue" style="width: 12px; height: 12px; "></a>
+<a href="https://trello.com/b/k4kDjjbt/novo-projeto">Trello <img src="https://github.com/user-attachments/assets/8e41748c-cf5d-4ad1-a805-4e274273b710" alt="Imagem Seta A Direita Blue" style="width: 12px; height: 12px; "></a>
 
 ```diff
 - 🚨 Aviso Importante 🚨
@@ -248,5 +248,4 @@ No entanto, o projeto já está **99% concluído**, incluindo **frontend**,
 ## 💻 Layout BiCity
 
 https://github.com/user-attachments/assets/8dbae452-adc7-4b85-827c-1880f0d70aa1
-
 
