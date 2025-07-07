@@ -1,6 +1,4 @@
-# Welcome to your Expo app BiCity 👋
-
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+# Welcome App BiCity 👋
 
 ```mermaid
     gitGraph
@@ -21,35 +19,80 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ```
 
-
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css">
 <h1 align="center">
   <img src="https://github.com/GabrielAlvesGit/ComenteSobre-EngenhariaSoftwareIII-IFSP/blob/main/comente_sobres/static/img/logo-instituto.png?raw=true" alt="Imagem do IFSP" width="250" height="230" style="border-radius: 50;">
 </h1>
 
-# PI1A5 - Projeto Integrado I - BiCity
+# PI1A5/PI2A6 - Projeto Integrado I e II - App BiCity
 
 ## Informações Gerais
 
 <!-- Informações do curso e professor -->
-<div align="left"> 
-<img align="right" width="130px" height="130px" src="https://github.com/user-attachments/assets/d7fca8c6-56b1-4542-b0b8-e83794c2eefe" alt="Imagem do Prof.Palladino"><img align="right" width="130px" height="130px" src="https://github.com/user-attachments/assets/c49e867b-66c3-475d-aa22-8ff0cbc68989" alt="Imagem do Prof.Bernardo"><p>Trabalho apresentado na matéria de  PI1A5 - Projeto Integrado I
-                do curso Superior de Tecnologia em Análise e
-                Desenvolvimento de Sistemas do Instituto Federal de
-                Educação, Ciência e Tecnologia de São Paulo.<br>
-                Orientador: Prof.Bernardo e Prof.Palladino
-        </p>
-<!-- Redirecionamento de para redes sociais com Icones -->
- <div>
-  Orientador: Prof.Bernardo:<br> 
 
-  <a  href="https://www.linkedin.com/in/domingos-bernardo-487b837/?originalSubdomain=br" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="Imagem Linkedin"></a> 
-  <a href="https://www.linkedin.com/in/domingos-bernardo-487b837/?originalSubdomain=br" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  alt="Imagem Github"></a><br><br>
-  Orientador: Prof.Palladino:<br>   
-  <a href="https://www.linkedin.com/in/palladino-antonio-a-aa2897b7/?originalSubdomain=br" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="Imagem Linkedin"></a> 
-  <a href="https://www.linkedin.com/in/palladino-antonio-a-aa2897b7/?originalSubdomain=br" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  alt="Imagem Github"></a>
-</div>
-</div></br>
+<table>
+  <tr>
+    <td style="width: 50%; vertical-align: top; padding: 10px;">
+   Trabalho apresentado nas disciplinas PI1A5 - Projeto Integrado I (2024) e PI2A6 - Projeto Integrado I (2025), do curso Superior de Tecnologia em
+Análise e Desenvolvimento de Sistemas do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo.<br><br>
+Orientadores: Prof. Bernardo e Prof. Palladino (PI1A5 - 2024).<br><br>
+Orientadores: Prof. Palladino e Prof. Quirino (PI2A6 - 2025).
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>
+            <img src="https://github.com/user-attachments/assets/4d674248-ac71-4d68-8d79-d53fae5a1dab" alt="Imagem do Prof. Bernardo" width="130px" height="130px"><br>
+            <strong>Prof. Bernardo</strong>
+          </td>
+          <td>
+            <img src="https://github.com/user-attachments/assets/9c006882-89a9-43ad-84d6-12e535fd26d2" alt="Imagem do Prof. Palladino" width="130px" height="130px"><br>
+            <strong>Prof. Palladino</strong>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2">
+            <img src="https://github.com/user-attachments/assets/c84d26b2-311b-4c15-9e4b-0b8ec3443a46" alt="Imagem do Prof. Quirino" width="130px" height="130px"><br>
+            <strong>Prof. Quirino</strong>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<!-- Redirecionamento de para redes sociais com Icones -->
+<table>
+  <tr>
+    <td>
+      <strong>Orientador: Prof. Bernardo</strong><br><br>
+      <a href="https://www.linkedin.com/in/domingos-bernardo-487b837/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+      <a href="https://github.com/bernardo" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      </a>
+    </td>
+    <td>
+      <strong>Orientador: Prof. Palladino</strong><br><br>
+      <a href="https://www.linkedin.com/in/palladino-antonio-a-aa2897b7/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+      <a href="https://github.com/palladino" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      </a>
+    </td>
+    <td>
+      <strong>Orientador: Prof. Quirino</strong><br><br>
+      <a href="https://www.linkedin.com/in/luizfpq/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+      <a href="https://github.com/quirino" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      </a>
+    </td>
+  </tr>
+</table></br>
 </br>
 <!--****************************************************************************************************************-->
 <!-- Informações do Aluno -->
@@ -62,14 +105,13 @@ Thanks goes to these wonderful people:
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table align="center">
-
   <tr>
     <tr>
    <td align="center"><a href="https://github.com/CaioARL"><img alt="Imagem Perfil Caio" src="https://avatars.githubusercontent.com/u/89604540?v=4" width="100px" alt="Foto de Perfil"/><br/><sub><b>Caio Arruda</b></sub></a><br /><a href="https://github.com/CaioARL" title="GitHub"><img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"></a><a href="#" title="Linkedin"><img align="center" alt="Imagem Linkedin" height="30" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/gabrielalv3s/"><img alt="Imagem Perfil Gabriel Josué" src="https://avatars.githubusercontent.com/u/102634725?v=4" width="100px" alt="Foto de Perfil"/><br/><sub><b>Gabriel Josué</b></sub></a><br /><a href="https://github.com/GabrielAlvesGit" title="GitHub"><img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"></a><a href="https://www.linkedin.com/in/gabrielalv3s/" title="Linkedin"><img align="center" alt="Imagem Linkedin" height="30" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a></td>
+    <td align="center"><a href="https://github.com/GabrielAlvesGit"><img alt="Imagem Perfil Gabriel Josué" src="https://github.com/user-attachments/assets/662ee875-0438-4fe7-bb22-4797979baec7" width="100px" alt="Foto de Perfil"/><br/><sub><b>Gabriel Josué</b></sub></a><br /><a href="https://github.com/GabrielAlvesGit" title="GitHub"><img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"></a><a href="https://www.linkedin.com/in/gabrielalv3s/" title="Linkedin"><img align="center" alt="Imagem Linkedin" height="30" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a></td>
         <td align="center"><a href="https://github.com/gabuh"><img alt="Imagem Perfil Gabriel Nogueira" src="https://avatars.githubusercontent.com/u/107087299?v=4" width="100px" alt="Foto de Perfil"/><br/><sub><b>Gabriel Nogueira</b></sub></a><br /><a href="https://github.com/gabuh" title="GitHub"><img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"></a><a href="https://www.linkedin.com/in/gabunogueira" title="Linkedin"><img align="center" alt="Imagem Linkedin" height="30" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a></td>
     <td align="center"><a href="https://github.com/luizatempobono"><img alt="Imagem Perfil Luiza Tempobonos" src="https://avatars.githubusercontent.com/u/49411322?v=4" width="100px" alt="Foto de Perfil"/><br/><sub><b>Luiza Tempobono</b></sub></a><br /><a href="https://github.com/luizatempobono" title="GitHub"><img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"></a><a href="https://br.linkedin.com/in/luizatempobono" title="Linkedin"><img align="center" alt="Imagem Linkedin" height="30" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a></td>
-    <td align="center"><a href="https://github.com/c0zyhug"><img alt="Imagem Perfil Kayan" src="https://github.com/user-attachments/assets/ff34c587-b70c-48f9-bc15-090fa3c156e8" width="100px" alt="Foto de Perfil"/><br/><sub><b>Kayan Garbi</b></sub></a><br /><a href="https://github.com/c0zyhug" title="GitHub"><img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"></a><a href="https://www.linkedin.com/in/kayan-garbi/" title="Linkedin"><img align="center" alt="Imagem Linkedin" height="30" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a></td> 
+    <td align="center"><a href="https://github.com/c0zyhug"><img alt="Imagem Perfil Kayan" src="https://github.com/user-attachments/assets/1295f67c-b05a-4592-a587-e76b1c0870d0" width="100px" alt="Foto de Perfil"/><br/><sub><b>Kayan Garbi</b></sub></a><br /><a href="https://github.com/c0zyhug" title="GitHub"><img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"></a><a href="https://www.linkedin.com/in/kayan-garbi/" title="Linkedin"><img align="center" alt="Imagem Linkedin" height="30" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a></td> 
   </tr>
 </table>
 
@@ -87,10 +129,10 @@ Thanks goes to these wonderful people:
     <img align="center" alt="spring" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" >
     <img align="center" alt="Swagger" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg">
     <img align="center" alt="aws" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" >
-    <img align="center" alt="ec2/rds" height="80" width="150" src="https://github.com/user-attachments/assets/4122a8e7-2ddc-492f-883c-7a10d3f25d90">
+    <img align="center" alt="Jira" height="80" width="150" src="https://github.com/user-attachments/assets/4122a8e7-2ddc-492f-883c-7a10d3f25d90">
     <img align="center" alt="mysql" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" alt="Figma" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-    <img align="center" alt="trello" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original-wordmark.svg">
+    <img align="center" alt="Jira" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original-wordmark.svg">
 </div>
 
 ## Descrição do Projeto
@@ -112,15 +154,15 @@ O presente projeto tem como objetivo criar um aplicativo que permita aos usuári
 -   Aplicação do Projeto
     - Desenvolver a aplicação utilizando as tecnologias definidas (React Expo, Java e etc.).
     - Implementar funcionalidades de forma incremental, garantindo testes e validações em cada etapa.
-    - Testes e Validações
+    - Testes e Validações.
 -   Apresentação do Projeto
-    - Apresentação clara e concisa que destaque os objetivos, funcionalidades e resultados do projeto.
+    - Apresentação objetiva e concisa que destaque os objetivos, funcionalidades e resultados do projeto.
     - Demonstrações práticas do aplicativo em funcionamento.
 </p>
 
 ## 🔎 Instruções de Como usar
 
-1. Certifique-se de ter o Node.js(Node.js (versão recomendada: >=16.0.0)) e React Expo instalado
+1. Certifique-se de ter o Node.js(Node.js (versão recomendada: >=16.0.0/ expo >=52.0)) e React Expo instalado
     ```
     Link: https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
     Link: https://docs.expo.dev/
@@ -128,7 +170,7 @@ O presente projeto tem como objetivo criar um aplicativo que permita aos usuári
     
 2. Clone o repository
     ```
-    $ git clone https://github.com/....
+    $ git clone https://github.com/CaioARL/BiCity
     $ cd bi-city
      ```
     
@@ -143,7 +185,7 @@ O presente projeto tem como objetivo criar um aplicativo que permita aos usuári
     ```bash
     npm install react-native-maps
     expo install expo-location
-    npm install geojson - Caso necessário
+    npm install geojson - Caso necessario
     ```
     
  5. Start the app
@@ -151,7 +193,7 @@ O presente projeto tem como objetivo criar um aplicativo que permita aos usuári
      npx expo start
     ```
 
-## Create new branch
+## Criar nova branch
 
 1. Crie a nova branch
 
@@ -184,42 +226,13 @@ O presente projeto tem como objetivo criar um aplicativo que permita aos usuári
       git push origin feature-nome-que-voce-vai-add
     ```
 
-In the output, you'll find options to open the app in a
+## Documentação
 
--   [development build](https://docs.expo.dev/develop/development-builds/introduction/)
--   [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
--   [Alternativa para a instalação do Android emulator](https://www.youtube.com/watch?v=dNhHv4JzsTw)
--   [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
--   [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+<a href="https://www.figma.com/design/KCeLjQD4pfOAC88nYXWICV/Projeto-PI1A5---Grupo-5?node-id=0-1&t=SuQxY3qDCQvJZxQ2-1">Documentação Figma <img src="https://github.com/user-attachments/assets/52e5be79-cbf3-466e-9838-d56ca199090e" alt="Imagem Seta A Direita Blue" style="width: 12px; height: 12px; "></a>
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+<a href="https://github.com/user-attachments/files/20956726/PI2A6.-.BiCity.Documentacao.pdf">Documentação Doc. <img src="https://github.com/user-attachments/assets/52e5be79-cbf3-466e-9838-d56ca199090e" alt="Imagem Seta A Direita Blue" style="width: 12px; height: 12px; "></a>
 
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
--   [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
--   [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-
-
-## Documentações
-
-<a href="https://www.figma.com/design/KCeLjQD4pfOAC88nYXWICV/Projeto-PI1A5---Grupo-5?node-id=0-1&t=SuQxY3qDCQvJZxQ2-1">Documentação Figma <img src="https://github.com/user-attachments/assets/eb66b452-df9f-4064-b5d6-c7b3d3849b01" alt="Imagem Seta A Direita Blue" style="width: 12px; height: 12px; "></a>
-
-<a href="#">Documentação Doc. <img src="https://github.com/user-attachments/assets/eb66b452-df9f-4064-b5d6-c7b3d3849b01" alt="Imagem Seta A Direita Blue" style="width: 12px; height: 12px; "></a>
-
-<a href="https://trello.com/b/k4kDjjbt/novo-projeto">Trello <img src="https://github.com/user-attachments/assets/eb66b452-df9f-4064-b5d6-c7b3d3849b01" alt="Imagem Seta A Direita Blue" style="width: 12px; height: 12px; "></a>
+<a href="https://trello.com/b/k4kDjjbt/novo-projeto">Trello <img src="https://github.com/user-attachments/assets/52e5be79-cbf3-466e-9838-d56ca199090e" alt="Imagem Seta A Direita Blue" style="width: 12px; height: 12px; "></a>
 
 ```diff
 - 🚨 Aviso Importante 🚨
@@ -234,11 +247,10 @@ No entanto, o projeto já está **80% concluído**, incluindo **frontend**,
 
 ## 💻 Layout BiCity
 
-<div style="display: flex; justify-content: center;">
-   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/102634725/411399086-859f0d34-b5fd-43e6-9e0f-e8d47ecbd321.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250210T034653Z&X-Amz-Expires=300&X-Amz-Signature=9ab2337c88d93d92919af6846811e458fdd1ebf0d9f4dd071d55e4982e7c3763&X-Amz-SignedHeaders=host" alt="#" style="width: 270px; height: 500px; ">
-   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/102634725/411399432-9275bb4a-a538-4806-b718-4cb693df0a24.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250210T034925Z&X-Amz-Expires=300&X-Amz-Signature=5c85ebbd114cefdbb9224aae3e7f10be62fe6a1ffc941d0e40618f1757a17591&X-Amz-SignedHeaders=host" alt="#" style="width: 270px; height: 500px; ">
-   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/102634725/411399562-1ca44d93-f18c-42f4-85db-cf847977b813.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250210T035026Z&X-Amz-Expires=300&X-Amz-Signature=4953d533a84fe9c20a80f562f3b9c68dcb7e76054368c092ebf2b0081a7835c5&X-Amz-SignedHeaders=host" alt="#" style="width: 270px; height: 500px; ">
-       <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/102634725/411399945-2f02cbfc-be1c-4b1f-9b7c-28ca0ac911ac.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250210T035245Z&X-Amz-Expires=300&X-Amz-Signature=ebdbe7ea6648fcf5d4a03137c13ba28fc1a2db0da275ad1a4a2cdbb05c56b997&X-Amz-SignedHeaders=host" alt="#" style="width: 270px; height: 500px; ">
-   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/102634725/411400192-3e7d986b-324e-4e2b-b877-f9321cad1367.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250210T035406Z&X-Amz-Expires=300&X-Amz-Signature=97c9d36beadb06fead10b9307a10492ee0b1d10213a2c6101553db12fb8d0dee&X-Amz-SignedHeaders=host" alt="#" style="width: 270px; height: 500px; ">
-     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/102634725/411400708-e5af57de-ebd9-422e-bb7a-d01b5696b697.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250210T035714Z&X-Amz-Expires=300&X-Amz-Signature=9610e8885d9960dc91bfa531a2f98068f740587077077b5f0ef5d52c3c9ed2d9&X-Amz-SignedHeaders=host" alt="#" style="width: 270px; height: 500px; ">
-</div>
+https://github.com/user-attachments/assets/8dbae452-adc7-4b85-827c-1880f0d70aa1
+
+
+
+
+
+
