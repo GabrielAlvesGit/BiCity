@@ -241,7 +241,7 @@ O presente projeto tem como objetivo criar um aplicativo que permita aos usuári
 reunindo informações sobre o desenvolvimento e a direção do app.
 
 Por questões de desenvolvimento e outros motivos, o código não está disponível publicamente.
-No entanto, o projeto já está **80% concluído**, incluindo **frontend**,
+No entanto, o projeto já está **99% concluído**, incluindo **frontend**,
 **backend**, **banco de dados** e **serviços AWS**.
 
 
